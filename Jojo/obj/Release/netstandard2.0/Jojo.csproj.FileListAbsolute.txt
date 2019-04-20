@@ -1,0 +1,14 @@
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\bin\Release\netstandard2.0\Jojo.deps.json
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\bin\Release\netstandard2.0\Jojo.dll
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\bin\Release\netstandard2.0\Jojo.pdb
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.csprojAssemblyReference.cache
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.csproj.CoreCompileInputs.cache
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.AssemblyInfoInputs.cache
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.AssemblyInfo.cs
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.dll
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.pdb
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\bin\Release\netstandard2.0\NuGet.exe
+C:\Users\karolk10\source\repos\Jojo\Jojo\Jojo\obj\Release\netstandard2.0\Jojo.csproj.CopyComplete
